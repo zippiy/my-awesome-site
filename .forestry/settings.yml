@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ''
   label: other
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
